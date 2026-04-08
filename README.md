@@ -40,19 +40,6 @@ Aquí tienes algunas de las tecnologías y herramientas con las que más trabaja
 
 ---
 
-## 🛠️ Proyectos Destacados
-
-Estos son algunos de los proyectos en los que estamos trabajando actualmente:
-
-1.  **[Nombre del Proyecto 1]([URL_DEL_REPOSITORIO])**
-    * *Descripción:* [Breve explicación de qué hace este proyecto y qué problema resuelve].
-    * *Tecnologías:* [Ej: React, Node.js, MongoDB].
-2.  **[Nombre del Proyecto 2]([URL_DEL_REPOSITORIO])**
-    * *Descripción:* [Breve explicación del proyecto].
-    * *Tecnologías:* [Ej: Python, Django, PostgreSQL].
-
----
-
 ## 🤝 Cómo Contribuir
 
 ¡Nos encanta recibir contribuciones de la comunidad! Si quieres colaborar con nosotros, sigue estos pasos:
@@ -67,10 +54,10 @@ Estos son algunos de los proyectos en los que estamos trabajando actualmente:
 
 ¡Estamos siempre abiertos a colaborar, debatir o simplemente charlar sobre tecnología!
 
-- 🌐 **Sitio Web:** [TUSITIO.com]([URL])
-- 💼 **LinkedIn:** [CSMTechLat]([URL])
-- 🐦 **Twitter / X:** [@CSMTechLat]([URL])
-- ✉️ **Correo:** [contacto@csmtechlat.com](mailto:contacto@csmtechlat.com)
+- 🌐 **Sitio Web:** [csmtech.lat](https://www.csmtech.lat/)
+- 💼 **LinkedIn:** [CSM Tech](https://www.linkedin.com/company/creadores-de-software-de-mexico-tech)
+
+- ✉️ **Correo:** [atencion@csmtech.lat](mailto:atencion@csmtech.lat)
 
 <br>
 <div align="center">
