@@ -1,8 +1,4 @@
-# <div align="center">
-  <i>
-   CSMTechLat
-  </i>
-</div>
+# CSMTechLat
 
 <div align="center">
   <i>
