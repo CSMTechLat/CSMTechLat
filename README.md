@@ -1,9 +1,9 @@
 # 🚀 Bienvenidos a CSMTechLat
 
 <div align="center">
-  <img src="[URL_DE_TU_LOGO_AQUI]" alt="Logo de CSMTechLat" width="200"/>
-  <br>
-  <i>[Escribe aquí un eslogan corto, ej: "Impulsando el desarrollo tecnológico y la innovación en Latinoamérica"]</i>
+
+ 
+  <i>"No somos solo desarrolladores. Somos arquitectos que diseñan, estructuran y ejecutan ecosistemas de software de alto rendimiento para líderes del mercado."</i>
 </div>
 
 ---
