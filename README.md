@@ -1,9 +1,13 @@
-# CSMTechLat
+# <div align="center">
+  <i>
+   CSMTechLat
+  </i>
+</div>
 
 <div align="center">
-
- 
-  <i>"No somos solo desarrolladores. Somos arquitectos que diseñan, estructuran y ejecutan ecosistemas de software de alto rendimiento para líderes del mercado."</i>
+  <i>
+   "No somos solo desarrolladores. Somos arquitectos que diseñan, estructuran y ejecutan ecosistemas de software de alto rendimiento para líderes del mercado."
+  </i>
 </div>
 
 ---
