@@ -1,4 +1,4 @@
-# 🚀 Bienvenidos a CSMTechLat
+CSMTechLat
 
 <div align="center">
 
